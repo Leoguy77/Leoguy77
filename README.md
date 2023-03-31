@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, im Leon Schneider aka Leoguy77 👋
 
 <!--
 **Leoguy77/Leoguy77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
