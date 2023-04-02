@@ -1,7 +1,6 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
   schedule:
     # Runs at 00:00AM UTC
     - cron: '0 0 * * *'
@@ -28,4 +27,3 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           COMMIT_MESSAGE: "Updated Code Stats"
           SHOW_SHORT_INFO: "True"
-          
