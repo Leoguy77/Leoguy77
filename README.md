@@ -1,7 +1,7 @@
 # Hi there, im Leon Schneider aka Leoguy77 👋
 
-
 ## A little bit more about me
+
 ```javascript
 const Leon = {
   pronouns: "he" | "him",
@@ -17,14 +17,14 @@ const Leon = {
     databases: ["MongoDB", "MySql"],
     misc: ["Pocketbase"],
   },
-
   currentFocus: "SvelteKit",
   funFact: "There are two ways to write error-free programs; only the third one works"
 }
 ```
+
 ## This week I spent my time on
+
 <img
   src="https://github.com/leoguy77/leoguy77/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
+  alt="Leoguy77 WakaTime Activity"
 />
-
