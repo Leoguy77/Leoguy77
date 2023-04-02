@@ -28,3 +28,4 @@ jobs:
           COMMIT_MESSAGE: "Updated Code Stats"
           SHOW_SHORT_INFO: "True"
           SHOW_PROFILE_VIEWS: "False"
+          SHOW_LINES_OF_CODE: "False"
