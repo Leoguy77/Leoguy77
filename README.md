@@ -26,7 +26,5 @@ const Leon = {
 
 ## This week I spent my time on
 
-<img
-  src="https://github.com/leoguy77/leoguy77/blob/main/images/stat.svg"
-  alt="Leoguy77 WakaTime Activity"
-/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
