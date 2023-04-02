@@ -1,21 +1,30 @@
 ### Hi there, im Leon Schneider aka Leoguy77 👋
 
 
+### A little bit more about me
+```javascript
+const Leon = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript],
+  askMeAbout: [Web Dev, Tech],
+  technologies: {
+    frontEnd: {
+      js: ["Svelte"]
+    },
+    backEnd: {
+      js: ["Node", "Express", "SvelteKit", "FeathersJS"],
+    },
+    databases: ["MongoDB", "MySql"],
+    misc: ["Pocketbase"],
+  },
+
+  currentFocus: "SvelteKit",
+  funFact: "There are two ways to write error-free programs; only the third one works"
+}
+```
+### This week I spent my time on
 <img
   src="https://github.com/leoguy77/leoguy77/blob/main/images/stat.svg"
   alt="Avinal WakaTime Activity"
 />
-<!--
-**Leoguy77/Leoguy77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
