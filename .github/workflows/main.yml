@@ -4,8 +4,12 @@ on:
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
     - cron: "1 0 * * *"
-  push:
-    branches: [main]
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: 'Confirm to run?'
+        required: true
+        default: 'yes'
 
 jobs:
   update-readme:
