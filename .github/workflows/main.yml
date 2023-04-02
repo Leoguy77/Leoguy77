@@ -27,3 +27,4 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           COMMIT_MESSAGE: "Updated Code Stats"
           SHOW_SHORT_INFO: "True"
+          SHOW_PROFILE_VIEWS: "False"
