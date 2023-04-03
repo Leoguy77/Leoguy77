@@ -27,15 +27,15 @@ const Leon = {
 ## This week I spent my time on
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 23.8 kB Used in GitHub's Storage 
+> 📦 23.9 kB Used in GitHub's Storage 
  > 
-> 🏆 88 Contributions in the Year 2023
+> 🏆 91 Contributions in the Year 2023
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 14 Public Repositories 
  > 
@@ -90,5 +90,5 @@ Lua                      2 repos             ████████░░░�
 
 
 
- Last Updated on 02/04/2023 17:54:19 UTC
+ Last Updated on 03/04/2023 00:42:46 UTC
 <!--END_SECTION:waka-->
