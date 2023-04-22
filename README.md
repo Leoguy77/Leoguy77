@@ -27,7 +27,7 @@ const Leon = {
 ## This week I spent my time on
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2013%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -92,5 +92,5 @@ Lua                      2 repos             ████████░░░�
 
 
 
- Last Updated on 21/04/2023 10:57:26 UTC
+ Last Updated on 22/04/2023 00:43:13 UTC
 <!--END_SECTION:waka-->
