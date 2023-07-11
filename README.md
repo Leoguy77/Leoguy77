@@ -16,7 +16,7 @@ const Leon = {
     backEnd: {
       js: ["Node", "Express", "SvelteKit", "FeathersJS"],
     },
-    databases: ["MongoDB", "MySql"],
+    databases: ["MongoDB", "MySql", "MSSQL"],
     misc: ["Pocketbase"],
   },
   currentFocus: "SvelteKit",
