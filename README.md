@@ -68,16 +68,13 @@ Sunday                   30 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Nginx configuration file 28 mins             ██████████████░░░░░░░░░░░   57.03 % 
-TypeScript               20 mins             ██████████░░░░░░░░░░░░░░░   41.20 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -91,5 +88,5 @@ Lua                      2 repos             ███████░░░░�
 
 
 
- Last Updated on 25/08/2023 00:37:43 UTC
+ Last Updated on 26/08/2023 00:36:27 UTC
 <!--END_SECTION:waka-->
