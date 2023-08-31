@@ -27,13 +27,13 @@ const Leon = {
 ## This week I spent my time on
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2046%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 24.4 kB Used in GitHub's Storage 
  > 
-> 🏆 227 Contributions in the Year 2023
+> 🏆 228 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -68,14 +68,16 @@ Sunday                   30 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               4 mins              █████████████░░░░░░░░░░░░   52.67 % 
-JavaScript               4 mins              ████████████░░░░░░░░░░░░░   47.33 % 
+TypeScript               4 mins              ██████████░░░░░░░░░░░░░░░   38.42 % 
+JavaScript               4 mins              ████████░░░░░░░░░░░░░░░░░   33.45 % 
+Other                    3 mins              ███████░░░░░░░░░░░░░░░░░░   26.78 % 
+Svelte                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,5 +91,5 @@ Lua                      2 repos             ███████░░░░�
 
 
 
- Last Updated on 30/08/2023 00:38:21 UTC
+ Last Updated on 31/08/2023 00:38:30 UTC
 <!--END_SECTION:waka-->
