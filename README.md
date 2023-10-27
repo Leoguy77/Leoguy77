@@ -27,7 +27,7 @@ const Leon = {
 ## This week I spent my time on
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2020%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -68,13 +68,13 @@ Sunday                   31 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -88,5 +88,5 @@ Lua                      2 repos             ████████░░░�
 
 
 
- Last Updated on 26/10/2023 00:38:01 UTC
+ Last Updated on 27/10/2023 00:38:02 UTC
 <!--END_SECTION:waka-->
