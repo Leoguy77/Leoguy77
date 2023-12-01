@@ -31,7 +31,7 @@ const Leon = {
 
 **🐱 My GitHub Data** 
 
-> 📦 91.5 kB Used in GitHub's Storage 
+> 📦 91.6 kB Used in GitHub's Storage 
  > 
 > 🏆 232 Contributions in the Year 2023
  > 
@@ -88,5 +88,5 @@ Lua                      2 repos             ████████░░░�
 
 
 
- Last Updated on 30/11/2023 00:41:18 UTC
+ Last Updated on 01/12/2023 00:45:10 UTC
 <!--END_SECTION:waka-->
