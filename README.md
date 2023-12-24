@@ -68,14 +68,13 @@ Sunday                   34 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-PowerShell               1 min               ████████████████████████░   97.12 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,5 +88,5 @@ Lua                      2 repos             ████████░░░�
 
 
 
- Last Updated on 23/12/2023 00:39:04 UTC
+ Last Updated on 24/12/2023 00:43:37 UTC
 <!--END_SECTION:waka-->
