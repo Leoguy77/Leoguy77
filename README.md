@@ -33,6 +33,8 @@ const Leon = {
 
 > 📦 101.8 kB Used in GitHub's Storage 
  > 
+> 🏆 15 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -86,5 +88,5 @@ Lua                      2 repos             ████████░░░�
 
 
 
- Last Updated on 20/05/2024 00:43:04 UTC
+ Last Updated on 21/05/2024 00:42:28 UTC
 <!--END_SECTION:waka-->
