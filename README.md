@@ -1,6 +1,6 @@
 # Hi there, im Leon Schneider aka Leoguy77 👋
 
-![GitHub followers](https://img.shields.io/github/followers/leoguy77.svg?style=social&label=Followers) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=leoguy77.leoguy77)
+![GitHub followers](https://img.shields.io/github/followers/leoguy77.svg?style=social&label=Followers) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 ## A little bit more about me
 
