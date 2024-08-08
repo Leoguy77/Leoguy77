@@ -33,6 +33,8 @@ const Leon = {
 
 > 📦 114.3 kB Used in GitHub's Storage 
  > 
+> 🏆 45 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -92,5 +94,5 @@ C++                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 07/08/2024 00:47:14 UTC
+ Last Updated on 08/08/2024 00:47:08 UTC
 <!--END_SECTION:waka-->
