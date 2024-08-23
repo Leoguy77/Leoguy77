@@ -11,15 +11,16 @@ const Leon = {
   askMeAbout: [Web Dev, Tech],
   technologies: {
     frontEnd: {
-      js: ["Svelte"]
+      js: ["Svelte"],
+      dart: ["Flutter"]
     },
     backEnd: {
-      js: ["Node", "Express", "SvelteKit", "FeathersJS"],
+      js: ["Node", "Express", "SvelteKit", "FeathersJS", "Strapi"],
     },
     databases: ["MongoDB", "MySql", "MSSQL"],
     misc: ["Pocketbase"],
   },
-  currentFocus: "SvelteKit",
+  currentFocus: "Flutter",
   funFact: "There are two ways to write error-free programs; only the third one works"
 }
 ```
