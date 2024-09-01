@@ -34,7 +34,7 @@ const Leon = {
 
 > 📦 101.9 kB Used in GitHub's Storage 
  > 
-> 🏆 55 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -69,16 +69,13 @@ Sunday                   43 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    2 hrs 9 mins        █████████████░░░░░░░░░░░░   53.40 % 
-Dart                     1 hr 52 mins        ████████████░░░░░░░░░░░░░   46.57 % 
-Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   2 hrs 6 mins        █████████████░░░░░░░░░░░░   52.29 % 
-VS Code                  1 hr 55 mins        ████████████░░░░░░░░░░░░░   47.71 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 1 min         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -94,5 +91,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2024 00:49:36 UTC
+ Last Updated on 01/09/2024 00:58:35 UTC
 <!--END_SECTION:waka-->
