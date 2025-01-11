@@ -28,6 +28,8 @@ const Leon = {
 ## This week I spent my time on
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2054%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 102.0 kB Used in GitHub's Storage 
@@ -40,6 +42,42 @@ const Leon = {
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                467 commits         █████████░░░░░░░░░░░░░░░░   35.65 % 
+🌆 Daytime                794 commits         ███████████████░░░░░░░░░░   60.61 % 
+🌃 Evening                49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   203 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Tuesday                  235 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Wednesday                197 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Thursday                 311 commits         ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Friday                   321 commits         ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -53,5 +91,5 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2025 00:56:09 UTC
+ Last Updated on 11/01/2025 00:55:05 UTC
 <!--END_SECTION:waka-->
