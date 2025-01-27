@@ -34,8 +34,6 @@ const Leon = {
 
 > 📦 102.0 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -96,5 +94,5 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/01/2025 00:54:51 UTC
+ Last Updated on 27/01/2025 00:54:26 UTC
 <!--END_SECTION:waka-->
