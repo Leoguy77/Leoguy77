@@ -69,15 +69,13 @@ Sunday                   43 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    49 mins             ███████████████████░░░░░░   77.57 % 
-Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-C++                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -93,5 +91,5 @@ C#                       1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/03/2025 00:57:36 UTC
+ Last Updated on 12/03/2025 00:56:48 UTC
 <!--END_SECTION:waka-->
