@@ -34,8 +34,6 @@ const Leon = {
 
 > 📦 102.1 kB Used in GitHub's Storage 
  > 
-> 🏆 13 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -91,5 +89,5 @@ Dart                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2025 00:57:08 UTC
+ Last Updated on 21/03/2025 00:58:12 UTC
 <!--END_SECTION:waka-->
