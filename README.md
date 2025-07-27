@@ -35,8 +35,6 @@ const Leon = {
 
 > 📦 102.2 kB Used in GitHub's Storage 
  > 
-> 🏆 106 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -92,5 +90,5 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2025 01:06:55 UTC
+ Last Updated on 27/07/2025 01:15:17 UTC
 <!--END_SECTION:waka-->
