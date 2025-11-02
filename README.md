@@ -29,8 +29,6 @@ const Leon = {
 ## This week I spent my time on
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-640%20hrs%203%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 102.3 kB Used in GitHub's Storage 
@@ -92,5 +90,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2025 01:05:04 UTC
+ Last Updated on 02/11/2025 01:05:58 UTC
 <!--END_SECTION:waka-->
