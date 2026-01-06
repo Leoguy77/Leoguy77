@@ -29,7 +29,7 @@ const Leon = {
 ## This week I spent my time on
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%2027%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -92,5 +92,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2026 01:14:34 UTC
+ Last Updated on 06/01/2026 01:08:09 UTC
 <!--END_SECTION:waka-->
