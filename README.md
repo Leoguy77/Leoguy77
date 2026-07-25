@@ -31,9 +31,9 @@ const Leon = {
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 128.2 kB Used in GitHub's Storage 
+> 📦 128.3 kB Used in GitHub's Storage 
  > 
-> 🏆 99 Contributions in the Year 2026
+> 🏆 103 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -41,42 +41,6 @@ const Leon = {
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                705 commits         ████████░░░░░░░░░░░░░░░░░   31.14 % 
-🌆 Daytime                1119 commits        ████████████░░░░░░░░░░░░░   49.43 % 
-🌃 Evening                439 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Tuesday                  398 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Wednesday                450 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Thursday                 607 commits         ███████░░░░░░░░░░░░░░░░░░   26.81 % 
-Friday                   427 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   79 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -90,5 +54,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 01:58:03 UTC
+ Last Updated on 25/07/2026 01:57:25 UTC
 <!--END_SECTION:waka-->
