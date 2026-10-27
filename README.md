@@ -33,7 +33,7 @@ const Leon = {
 
 **🐱 My GitHub Data** 
 
-> 📦 153.8 kB Used in GitHub's Storage 
+> 📦 130.2 kB Used in GitHub's Storage 
  > 
 > 🏆 136 Contributions in the Year 2026
  > 
@@ -98,5 +98,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 02:32:51 UTC
+ Last Updated on 27/10/2026 03:07:34 UTC
 <!--END_SECTION:waka-->
